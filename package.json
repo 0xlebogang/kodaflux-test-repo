@@ -1,0 +1,14 @@
+{
+    "name": "kodaflux-dep-test",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "echo \"Hello from KodaFlux Dependency Test Repo\""
+    },
+    "dependencies": {
+        "@base-ui/react": "latest",
+        "next": "^16",
+        "react": "^19",
+        "react-dom": "^19"
+    }
+}
